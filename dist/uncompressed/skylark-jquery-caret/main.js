@@ -1,0 +1,3 @@
+define(["./caret"],function($){
+	return $;
+})
