@@ -7,7 +7,7 @@
     "jqueryui"
   ],
   "scripts": {
-    "build": "sbundle build ."
+    "build": "slib build ."
   },
   "homepage": "https://github.com/skylark-integration/skylark-jquery-caret/",
   "author": "Hudaokeji, Inc.",
